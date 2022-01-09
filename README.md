@@ -4,4 +4,8 @@ Creating different branches for different milestone tasks in our fellowship proj
 
 This is one of the first branches I made. The name of this branch is readme-edits. As of now, the branch contains content different from the main. Now merged and the branch deleted.
 
+This is an edit I made using Rstudio.
+
+
+
 
